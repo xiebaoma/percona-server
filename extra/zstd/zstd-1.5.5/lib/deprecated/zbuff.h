@@ -13,7 +13,7 @@
 ******************************************************************/
 /* The streaming API defined here is deprecated.
  * Consider migrating towards ZSTD_compressStream() API in `zstd.h`
- * See 'lib/README.md'.
+ * See 'lib/p_s.md'.
  *****************************************************************/
 
 
